@@ -1,2 +1,2 @@
 # Siyu-du.github.io
-My Favorite Destinations
+Map of my Favorite Destinations
